@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="commons-io-2.8 (2)">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/web/WEB-INF/lib/commons-io-2.8.0" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/web/WEB-INF/lib/commons-io-2.8.0/docs" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/web/WEB-INF/lib/commons-io-2.8.0" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/web/WEB-INF/lib/commons-io-2.8.0" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/web/WEB-INF/lib/commons-io-2.8.0" recursive="false" type="SOURCES" />
+  </library>
+</component>
